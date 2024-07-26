@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botSurvey/__init__.py
+botSurvey/__main__.py
+botSurvey/bot.py
+botSurvey.egg-info/PKG-INFO
+botSurvey.egg-info/SOURCES.txt
+botSurvey.egg-info/dependency_links.txt
+botSurvey.egg-info/requires.txt
+botSurvey.egg-info/top_level.txt
+botSurvey/resources/start.png
